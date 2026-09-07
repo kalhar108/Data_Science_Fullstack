@@ -1,12 +1,10 @@
-# Kalhar's AI-Assisted Data Science Experiments
+# AI-Assisted Data Science Experiments
 
 An original, runnable replication and extension of the public `dlmastery/data_science_examples` experiment catalog. The goal is not to copy source code; each project is rebuilt as a compact Streamlit application emphasizing reproducibility, modeling intuition, and clean UX.
 
 ## 🎥 Video Walkthrough
 
 **YouTube:** `ADD_YOUR_YOUTUBE_LINK_HERE`
-
-> Record the walkthrough using `VIDEO_WALKTHROUGH_SCRIPT.md`, upload it to YouTube, then replace the placeholder above before submission.
 
 ## Quick Start
 
