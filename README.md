@@ -4,7 +4,7 @@ An original, runnable replication and extension of the public `dlmastery/data_sc
 
 ## 🎥 Video Walkthrough
 
-**YouTube:** `ADD_YOUR_YOUTUBE_LINK_HERE`
+**YouTube:** `https://youtu.be/r8yICoUDxsM`
 
 ## Quick Start
 
