@@ -23,6 +23,13 @@ Or run any project directly:
 streamlit run 01_nyc_taxi_trip_prediction/app.py
 ```
 
+## Authentication and security
+
+This is a local, single-user Streamlit portfolio and currently has no
+application authentication, external API credentials, tokens, or protected
+backend endpoints. See [`AUTHENTICATION.md`](AUTHENTICATION.md) for the
+component inventory, request flow, and credential-handling analysis.
+
 ## Project Portfolio
 
 | # | Project | Main idea |
