@@ -1,10 +1,13 @@
 # AI-Assisted Data Science Experiments
 
-An original, runnable replication and extension of the public `dlmastery/data_science_examples` experiment catalog. The goal is not to copy source code; each project is rebuilt as a compact Streamlit application emphasizing reproducibility, modeling intuition, and clean UX.
+- Name : Kalhar Mayurbhai Patel
+- SJSU ID: 019140511
+
+A runnable replication and extension of the public `dlmastery/data_science_examples` experiment catalog. The goal is not to copy source code; each project is rebuilt as a compact Streamlit application emphasizing reproducibility, modeling intuition, and clean UX.
 
 ## 🎥 Video Walkthrough
 
-**YouTube:** `https://youtu.be/r8yICoUDxsM`
+**YouTube:** https://youtu.be/r8yICoUDxsM
 
 ## Quick Start
 
